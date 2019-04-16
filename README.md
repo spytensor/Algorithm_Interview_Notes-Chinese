@@ -1,4 +1,4 @@
-算法/深度学习/NLP面试笔记
+算法/深度学习/NLP笔记
 ===
 **GitHub** 地址：https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 
